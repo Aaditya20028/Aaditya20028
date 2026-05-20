@@ -40,7 +40,7 @@ Software Developer @ **iConsult Collaborative** (Syracuse University) — buildi
 
 ### 📫 Reach me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aaditya-joshi-a95841210)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aaditya-joshi-a95841210)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:aadijoshi11802@gmail.com)
 
 ---
